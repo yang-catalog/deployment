@@ -197,4 +197,4 @@ set email address before any commit is done.
 
 `CRON_MAIL_TO=miroslav.kovac@pantheon.tech` - comma separated list of emails which are used
 with cron jobs. If any cron job will fail it will send it to this comma separated list of email addresses.
-This is added to the end of README.md fileThis is added to the end of README.md fileThis is added to the end of README.md fileThis is added to the end of README.md fileThis is added to the end of README.md file
+This is added to the end of README.md fileThis is added to the end of README.md fileThis is added to the end of README.md fileThis is added to the end of README.md fileThis is added to the end of README.md fileThis is added to the end of README.md file
